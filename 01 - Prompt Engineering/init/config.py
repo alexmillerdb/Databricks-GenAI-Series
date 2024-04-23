@@ -1,5 +1,9 @@
 # Databricks notebook source
-# MAGIC %pip install mlflow==2.9.0 lxml==4.9.3 langchain==0.0.344 databricks-vectorsearch==0.22 cloudpickle==2.2.1 databricks-sdk==0.12.0 cloudpickle==2.2.1 pydantic==2.5.2
+# %pip install mlflow==2.9.0 lxml==4.9.3 langchain==0.0.344 databricks-vectorsearch==0.22 cloudpickle==2.2.1 databricks-sdk==0.12.0 cloudpickle==2.2.1 pydantic==2.5.2
+
+# COMMAND ----------
+
+# MAGIC %pip install lxml==4.9.3 databricks-vectorsearch==0.22 pydantic==2.5.2 cloudpickle==2.2.1 sqlalchemy==2.0.0
 
 # COMMAND ----------
 
